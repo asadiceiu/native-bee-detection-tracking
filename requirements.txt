@@ -1,0 +1,23 @@
+# Core
+numpy<2.0
+scipy
+opencv-python
+
+# Detection & tracking (YOLO)
+ultralytics>=8.3.0
+
+# Kalman filter
+filterpy>=1.4.5
+
+# Detection evaluation
+pycocotools
+
+# Background subtraction evaluation
+# (opencv-python already provides cv2.createBackgroundSubtractorMOG2/KNN)
+
+# Tracking (GT oracle mode for ByteTrack/BoT-SORT)
+supervision>=0.21.0
+
+# Plotting
+matplotlib
+pandas

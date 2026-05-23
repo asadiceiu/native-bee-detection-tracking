@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+*.pt
+*.pth
+
+# Generated benchmark outputs (large, reproducible)
+detection/fold_lists/
+detection/results/
+tracking/gt/
+tracking/results/
+
+# Dataset images and labels are included in this release archive (data/)
+# but excluded from version control due to size (~300 MB)
+data/
+
+# OS
+.DS_Store
+Icon
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
