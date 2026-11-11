@@ -2,8 +2,8 @@
 
 Code for the benchmarks in:
 
-> **[Paper title]**  
-> [Authors]  
+> **[Monitoring Native Eusocial and Semi-social Bees at Hive and Nest Entrances to Quantify Foraging and Guarding Behaviour]**  
+> [Asaduz Zaman, Malika Ratnayake, Vanessa Kellermann, Alan Dorin]  
 > *International Journal of Computer Vision (IJCV), 2026*
 
 We provide a full pipeline for evaluating stingless bee **detection** and **multi-object tracking** in hive-entrance video, including training scripts, evaluation code, pre-computed results, and a tracking visualisation tool.
